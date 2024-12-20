@@ -1,0 +1,12 @@
+﻿syntax = "proto3";
+
+package proto;
+
+//============================================心跳检测==========================================
+message HeartBeatRequest{
+
+}
+
+message HeartBeatResponse{
+
+}

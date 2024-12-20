@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hz+m7JxJVJM=",
+  "success": true,
+  "projectFilePath": "D:\\Work\\C#Project\\Gitee\\HeartNetTest\\Server\\MainServer\\MainServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\非此2号机\\.nuget\\packages\\google.protobuf\\3.29.2\\google.protobuf.3.29.2.nupkg.sha512",
+    "C:\\Users\\非此2号机\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\非此2号机\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\非此2号机\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512",
+    "C:\\Users\\非此2号机\\.nuget\\packages\\yamldotnet\\16.2.1\\yamldotnet.16.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

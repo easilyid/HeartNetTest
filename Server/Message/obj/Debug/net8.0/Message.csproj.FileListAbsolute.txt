@@ -1,0 +1,13 @@
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Message\bin\Debug\net8.0\Message.deps.json
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Message\bin\Debug\net8.0\Message.dll
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Message\bin\Debug\net8.0\Message.pdb
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Message\obj\Debug\net8.0\Message.csproj.AssemblyReference.cache
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Message\obj\Debug\net8.0\Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Message\obj\Debug\net8.0\Message.AssemblyInfoInputs.cache
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Message\obj\Debug\net8.0\Message.AssemblyInfo.cs
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Message\obj\Debug\net8.0\Message.csproj.CoreCompileInputs.cache
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Message\obj\Debug\net8.0\Message.sourcelink.json
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Message\obj\Debug\net8.0\Message.dll
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Message\obj\Debug\net8.0\refint\Message.dll
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Message\obj\Debug\net8.0\Message.pdb
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Message\obj\Debug\net8.0\ref\Message.dll

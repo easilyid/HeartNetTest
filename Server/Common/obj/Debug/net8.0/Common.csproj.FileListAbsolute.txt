@@ -1,0 +1,13 @@
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Common\bin\Debug\net8.0\Common.deps.json
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Common\bin\Debug\net8.0\Common.dll
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Common\bin\Debug\net8.0\Common.pdb
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Common\obj\Debug\net8.0\Common.sourcelink.json
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Common\obj\Debug\net8.0\Common.dll
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Common\obj\Debug\net8.0\refint\Common.dll
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Common\obj\Debug\net8.0\Common.pdb
+D:\Work\C#Project\Gitee\HeartNetTest\Server\Common\obj\Debug\net8.0\ref\Common.dll

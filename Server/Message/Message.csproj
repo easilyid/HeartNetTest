@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="System.Buffers">
+        <HintPath>..\..\Tools\Dll\Google.Protobuf\net45\System.Buffers.dll</HintPath>
+      </Reference>
+      <Reference Include="System.Memory">
+        <HintPath>..\..\Tools\Dll\Google.Protobuf\net45\System.Memory.dll</HintPath>
+      </Reference>
+      <Reference Include="System.Runtime.CompilerServices.Unsafe">
+        <HintPath>..\..\Tools\Dll\Google.Protobuf\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Google.Protobuf" Version="3.29.2" />
+    </ItemGroup>
+
+</Project>

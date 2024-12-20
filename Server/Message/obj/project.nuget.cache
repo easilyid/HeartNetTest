@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O2yzYrLMRwo=",
+  "success": true,
+  "projectFilePath": "D:\\Work\\C#Project\\Gitee\\HeartNetTest\\Server\\Message\\Message.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\非此2号机\\.nuget\\packages\\google.protobuf\\3.29.2\\google.protobuf.3.29.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CWork_005CC_0023Project_005CGitee_005CHeartNetTest_005CTools_005CDll_005CGoogle_002EProtobuf_005Cnet45_005CGoogle_002EProtobuf_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CWork_005CC_0023Project_005CGitee_005CHeartNetTest_005CTools_005CDll_005CGoogle_002EProtobuf_005Cnet45_005CSystem_002EBuffers_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CWork_005CC_0023Project_005CGitee_005CHeartNetTest_005CTools_005CDll_005CGoogle_002EProtobuf_005Cnet45_005CSystem_002EMemory_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CWork_005CC_0023Project_005CGitee_005CHeartNetTest_005CTools_005CDll_005CGoogle_002EProtobuf_005Cnet45_005CSystem_002ERuntime_002ECompilerServices_002EUnsafe_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CWork_005CC_0023Project_005CGitee_005CHeartNetTest_005CTools_005CDll_005Cserilog_005Cserilog_005C4_002E2_002E0_005Clib_005Cnet8_002E0_005CSerilog_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\非此2号机\.nuget\packages\serilog\2.10.0" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\非此2号机\.nuget\packages\serilog\2.12.0" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\非此2号机\.nuget\packages\serilog\2.9.0" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\非此2号机\.nuget\packages\serilog\3.1.1" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\非此2号机\.nuget\packages\serilog\4.0.0" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\非此2号机\.nuget\packages\serilog\4.1.0" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\非此2号机\.nuget\packages\serilog\4.2.0" Loaded="True" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
